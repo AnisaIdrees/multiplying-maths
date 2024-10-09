@@ -1,0 +1,19 @@
+.tablebox {
+	border: 1px solid black;
+	padding: 10px;
+	width: 180px;
+	text-align: center;
+	margin: 5px auto;
+	letter-spacing: 2px;
+	font-size: 20px;
+  }
+  .table{
+	margin: 0 auto;
+	padding-top: 0px;
+	width: 300px;
+	/* height: 520px; */
+	border:1px solid black;
+	text-align: center;
+	background-size:cover ;
+	background-image:url(https://img.freepik.com/free-vector/gradient-abstract-background_23-2149922323.jpg?uid=R155654722&ga=GA1.1.1112367912.1720952297&semt=ais_hybrid);
+  }
